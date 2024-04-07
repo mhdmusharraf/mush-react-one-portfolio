@@ -57,7 +57,7 @@ const Portfolio = () => {
     {
       id: 6,
       src: ticketApp,
-      description: " This app combines Next.js for fast rendering, Tailwind CSS for quick styling, and MongoDB for scalable data storage. This tech stack delivers a seamless user experience with faster loading times, customizable UI design, and efficient ticketing operations.",
+      description: " This Ticketing app combines Next.js for fast rendering, Tailwind CSS for quick styling, and MongoDB for scalable data storage. This tech stack delivers a seamless user experience with faster loading times, customizable UI design, and efficient ticketing operations.",
 
 
 
